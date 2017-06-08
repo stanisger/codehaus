@@ -1,6 +1,15 @@
+
+//∆∆ reseteo  ∆∆
+@import 'assets/css/style.css';
+@import 'assets/css/normalize.css';
+
+//∆∆ estructura  ∆∆
 @import 'variables';
 @import 'mixins';
 @import 'helpers';
+@import 'main';
+
+
 
 
 @font-face {
@@ -37,4 +46,5 @@
 }
 .icon-simbol1:before {
   content: "\e902";
+
 }

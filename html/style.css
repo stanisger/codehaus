@@ -1,3 +1,41 @@
+@import url(assets/css/style.css);
+@import url(assets/css/normalize.css);
+.colorBlack {
+  color: black; }
+
+.bgBlack {
+  background: black; }
+
+.colorWhite {
+  color: white; }
+
+.bgWhite {
+  background: white; }
+
+.colorRed {
+  color: #FF0000; }
+
+.bgRed {
+  background: #FF0000; }
+
+.colorBlue {
+  color: #29aae1; }
+
+.bgBlue {
+  background: #29aae1; }
+
+.colorYellow {
+  color: #FFFF00; }
+
+.bgYellow {
+  background: #FFFF00; }
+
+.colorGrey {
+  color: #989898; }
+
+.bgGrey {
+  background: #989898; }
+
 .font1 {
   font-family: 'Montserrat', sans-serif; }
 
@@ -126,6 +164,13 @@
 
 .marginCero {
   margin: 0 !important; }
+
+.sectionOne h2 {
+  font-size: 4.2em; }
+.sectionOne p {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  line-height: 1.8em; }
 
 @font-face {
   font-family: 'icomoon';
